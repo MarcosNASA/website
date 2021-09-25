@@ -14,7 +14,7 @@ import FeaturedCardsCarousel from '../components/FeaturedCardsCarousel';
 import JoinSection from '../components/JoinSection';
 import AboutSection from '../components/AboutSection';
 import { getEmbeddedTweets } from '@/lib/twitter';
-import { Tweet, FeaturedCards } from '@/lib/types';
+import { FeaturedCards } from '@/lib/types';
 
 import { useSettings } from '@/lib/settings';
 
